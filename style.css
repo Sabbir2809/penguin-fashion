@@ -1,0 +1,40 @@
+html{
+    scroll-behavior: smooth;
+}
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+body{
+    font-family: 'Bebas Neue', cursive;
+    font-family: 'Roboto', sans-serif;
+}
+h1{
+    font-family: 'Bebas Neue', cursive;
+    font-size: 80px;
+}
+/* Navbar Start */
+.navbar-brand img{
+    width: 300px;
+    height: auto;
+}
+.navbar-icon{
+    color: green;
+}
+.navbar{
+    padding: 1% 9%;
+
+}
+.nav-link{
+    color: #3C3C3C;
+}
+.nav-link:hover{
+    color: green;
+    font-weight: bolder;
+ }
+
+/* Navbar End */
+
+/* Home Start */
+
