@@ -15,6 +15,12 @@ h1{
     font-family: 'Bebas Neue', cursive;
     font-size: 80px;
 }
+#heading-color{
+    color: #fabe4c;
+}
+.header-color{
+    background-color: #FFFBF0;    
+}
 /*==========Navbar Start==========*/
 .navbar-brand img{
     width: 300px;
@@ -40,7 +46,13 @@ h1{
     text-align: center;
 }
 
-
+.card{
+    border: none;
+    border-radius: 5px;
+    background-color: #F1F1F1;
+    box-shadow: 5px 5px 10px #F1F1F1;
+    height: 70%;
+}
 
  
  /*==========Navbar End==========*/
